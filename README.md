@@ -1,2 +1,3 @@
 # Lachan-first
-This is a learning repository
+Welcome to my first repository
+Author- Lachan
